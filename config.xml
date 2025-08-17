@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <name>Analysis and Design of Languages</name>
+    <student>
+        <name>Shirin Shoghli</name>
+        <id>9625512123</id>
+        <university>Islamic Azad University South Tehran Branch</university>
+        <program>Bachelor Program</program>
+        <year>2021</year>
+    </student>
+    <professor>
+        <name>Ezzat Doost</name>
+        <department>Computer Science</department>
+    </professor>
+    <project>
+        <title>Java Features Analysis</title>
+        <description>Comprehensive study of Java programming language features, strengths, weaknesses, and comparison with other languages</description>
+        <type>Course Project</type>
+        <subject>Programming Language Design and Implementation</subject>
+        
+        <javaFeatures>
+            <feature>
+                <name>Static Typing</name>
+                <description>Compile-time type checking</description>
+                <advantage>Errors caught before runtime</advantage>
+            </feature>
+            
+            <feature>
+                <name>Object-Oriented Programming</name>
+                <description>Encapsulation, Inheritance, Polymorphism</description>
+                <advantage>Modular, reusable, maintainable code</advantage>
+            </feature>
+            
+            <feature>
+                <name>Platform Independence</name>
+                <description>Write Once, Run Anywhere (WORA)</description>
+                <advantage>Bytecode runs on any JVM</advantage>
+            </feature>
+            
+            <feature>
+                <name>Automatic Memory Management</name>
+                <description>Garbage Collection</description>
+                <advantage>No manual memory management required</advantage>
+            </feature>
+            
+            <feature>
+                <name>Multithreading</name>
+                <description>Concurrent execution support</description>
+                <advantage>Built-in thread management</advantage>
+            </feature>
+            
+            <feature>
+                <name>Network Programming</name>
+                <description>Built-in networking libraries</description>
+                <advantage>TCP/IP, HTTP, FTP support</advantage>
+            </feature>
+            
+            <feature>
+                <name>Security</name>
+                <description>No pointers, sandbox model</description>
+                <advantage>Protection against malware</advantage>
+            </feature>
+            
+            <feature>
+                <name>Rich Standard Library</name>
+                <description>Comprehensive API</description>
+                <advantage>Extensive built-in functionality</advantage>
+            </feature>
+        </javaFeatures>
+        
+        <languageComparison>
+            <comparison>
+                <language1>Java</language1>
+                <language2>Python</language2>
+                <difference>Static vs Dynamic Typing</difference>
+            </comparison>
+            
+            <comparison>
+                <language1>Java</language1>
+                <language2>JavaScript</language2>
+                <difference>Different languages, similar syntax</difference>
+            </comparison>
+            
+            <comparison>
+                <language1>Java</language1>
+                <language2>C++</language2>
+                <difference>Automatic vs Manual Memory Management</difference>
+            </comparison>
+        </languageComparison>
+        
+        <javaApplications>
+            <application>Android Development</application>
+            <application>Enterprise Software</application>
+            <application>Web Applications</application>
+            <application>Big Data (Hadoop, Spark)</application>
+            <application>Financial Applications</application>
+            <application>Desktop Applications</application>
+        </javaApplications>
+        
+        <javaFrameworks>
+            <framework>
+                <name>Spring Framework</name>
+                <type>Enterprise</type>
+            </framework>
+            <framework>
+                <name>Hibernate</name>
+                <type>ORM</type>
+            </framework>
+            <framework>
+                <name>Blade</name>
+                <type>Web Framework</type>
+            </framework>
+            <framework>
+                <name>Dropwizard</name>
+                <type>RESTful Services</type>
+            </framework>
+        </javaFrameworks>
+        
+        <statistics>
+            <tiobeRanking>Top 2 since 2001</tiobeRanking>
+            <releaseDate>May 23, 1995</releaseDate>
+            <designer>James Gosling</designer>
+            <company>Sun Microsystems</company>
+            <currentVersion>21.0</currentVersion>
+        </statistics>
+    </project>
+    
+    <metadata>
+        <created>2021-07-01</created>
+        <lastModified>2024-08-17</lastModified>
+        <projectType>Course Assignment</projectType>
+        <academicYear>2021</academicYear>
+        <semester>Summer</semester>
+    </metadata>
+</course>
